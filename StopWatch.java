@@ -65,7 +65,7 @@ class StopWatch
         ts.setEditable(false);
         tms.setEditable(false);
         fk.setBackground(Color.BLACK);
-        bn.setBackground(Color.GRAY);
+        bn.setBackground(Color.DARK_GRAY);
         bn.setForeground(Color.WHITE);
         lh.setForeground(Color.WHITE);
         lm.setForeground(Color.WHITE);
