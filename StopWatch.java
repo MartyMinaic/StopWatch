@@ -88,7 +88,7 @@ class StopWatch
         th.setText("00");
         fm.setSize(350,200);
     }
-    public static void main()
+    public static void main(String args[])
     {
         StopWatch ob = new StopWatch();
         ob.eventHandel();
